@@ -1,0 +1,51 @@
+#titulo {
+    background: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+}
+
+#fondo {
+    background-image: url(estadio/Estadio-Metro.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%, 100%;
+    margin-top: 100px;
+}
+
+#demonio {
+    color: rgb(255, 255, 255);
+    background-image: url(estadio/fondo_th.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%, 100%;
+    margin-top: 100px;
+}
+
+#subcuadro-optiones {
+    color: rgb(255, 255, 255);
+    background-color: rgba(167, 0, 0, 0.884)
+}
+
+#subcuadro1 {
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.884)
+}
+
+#subcuadro2 {
+    color: rgb(0, 0, 0);
+    background-color: rgba(192, 192, 192, 0.884)
+}
+
+#subcuadro3 {
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.884)
+}
+
+#subcuadro4 {
+    color: rgb(0, 0, 0);
+    background-color: rgba(192, 192, 192, 0.884)
+}
+
+#subcuadro5 {
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.884)
+}
